@@ -1,7 +1,6 @@
 ## echarts-demo
 
 
-# install dependency
 npm install
 
 # develop
