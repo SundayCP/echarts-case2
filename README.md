@@ -1,8 +1,5 @@
-## Getting started
+## echarts-demo
 
-```bash
-# clone the project
-git clone git@47.97.163.205:zhuyulong/ebidata.git
 
 # install dependency
 npm install
@@ -10,8 +7,6 @@ npm install
 # develop
 npm run dev
 ```
-
-This will automatically open http://localhost:9527.
 
 ## Build
 
